@@ -1,4 +1,8 @@
-# List Detail Demo
+# Animated List & Detail Demo
+
+<img src="screens/Screenshot_1747219760.png" alt="Animated List & Detail Demo" width="250" border="1"/>
+<img src="screens/Screenshot_1747219764.png" alt="Animated List & Detail Demo" width="250"  border="1"/>
+<img src="screens/Screenshot_1747219768.png" alt="Animated List & Detail Demo" width="250"  border="1"/>
 
 A Flutter demonstration project showcasing a beautiful list-detail UI flow with animated transitions using Cupertino design elements.
 
